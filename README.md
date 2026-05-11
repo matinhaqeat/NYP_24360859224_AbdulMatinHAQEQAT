@@ -30,4 +30,4 @@ Main.java dosyası üzerinden program başlatılır.
 ## Proje Bağlantıları
 GitHub: https://github.com/matinhaqeat/NYP_24360859224_AbdulMatinHAQEQAT
 
-YouTube: https://www.youtube.com/watch?v=example123
+YouTube: https://youtu.be/PplxQKgngXI
